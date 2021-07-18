@@ -5,4 +5,4 @@
 2. 分9段区别显示,常亮/频闪
 3. 整体开关
 
-主程序位于 ./LightTest/Form.cs
+主程序: ./LightTest/Form.cs
