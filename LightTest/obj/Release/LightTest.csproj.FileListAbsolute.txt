@@ -1,0 +1,10 @@
+G:\source\repos\LightTest2\LightTest\bin\Release\LightTest.exe.config
+G:\source\repos\LightTest2\LightTest\bin\Release\LightTest.exe
+G:\source\repos\LightTest2\LightTest\bin\Release\LightTest.pdb
+G:\source\repos\LightTest2\LightTest\obj\Release\LightTest.csprojAssemblyReference.cache
+G:\source\repos\LightTest2\LightTest\obj\Release\LightTest.Form.resources
+G:\source\repos\LightTest2\LightTest\obj\Release\LightTest.Properties.Resources.resources
+G:\source\repos\LightTest2\LightTest\obj\Release\LightTest.csproj.GenerateResource.cache
+G:\source\repos\LightTest2\LightTest\obj\Release\LightTest.csproj.CoreCompileInputs.cache
+G:\source\repos\LightTest2\LightTest\obj\Release\LightTest.exe
+G:\source\repos\LightTest2\LightTest\obj\Release\LightTest.pdb
